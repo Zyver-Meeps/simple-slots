@@ -1,4 +1,3 @@
-/* Slot Machine Program by Joe Tchamitchian*/
 #include <iostream.h>
 #include <stdlib.h>
 #include <time.h>
